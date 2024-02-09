@@ -1,0 +1,1 @@
+This project is hardware cum software project where ultrasonic sensor  was interfaced with esp-32 node mcu and the date was sent to google sheets from where it was visually respresented in the dynamic web page according to water level.
